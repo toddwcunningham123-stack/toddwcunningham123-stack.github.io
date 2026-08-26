@@ -1,0 +1,16 @@
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font: 18px/1.5 ui-sans-serif, system-ui, sans-serif;
+  background: #0c0b09;
+  color: #e8dcc4;
+}
+main { max-width: 36rem; margin: 0 auto; padding: 3rem 1.25rem 4rem; }
+.mark { letter-spacing: 0.18em; text-transform: uppercase; font-size: 0.72rem; color: #c4a35a; }
+h1 { font-size: 2rem; font-weight: 600; line-height: 1.2; color: #f3ead8; }
+a { color: #e0b45c; }
+.apps { padding-left: 1.1rem; }
+.nav { margin-top: 2.5rem; color: #8a8070; }
+.updated { color: #8a8070; font-size: 0.9rem; }
+h2 { font-size: 1.15rem; margin-top: 2rem; color: #f3ead8; }
