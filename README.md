@@ -1,1 +1,1 @@
-Aqua Mobilis public pages (privacy + support) for App Store Connect.
+Aqua Mobilis public studio site for App Store Connect (privacy, support) and the iOS tools.
